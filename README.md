@@ -13,6 +13,7 @@ Error handling may be delayed to other functions. Such propagated error handling
 - Tree-sitter 0.20.0
 - Prefixspan 0.5.2
 - numpy 1.12.1
+- openai 1.2.0
 
 ### Envirment Setup
 
