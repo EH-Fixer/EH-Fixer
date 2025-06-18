@@ -44,20 +44,6 @@ Language.build_library(
 sudo ./TreesitterInit.py
 ```
 
-- EH-Digger requires the project to be structured as follow.
-
-```
-Working Dir
-|
-|----Test
-|        |----project1
-|        |----project2
-|
-|----TestResult
-|        |----result1
-|        |----return2
-```
-
 - Add the path of the Working Dir to Config.
 
 ```
